@@ -1,0 +1,10 @@
+pandoc: '2.2'
+pkgdown: 1.3.0
+pkgdown_sha: ~
+articles:
+  osn-access: osn-access.html
+  trrrj-plotting: trrrj-plotting.html
+urls:
+  reference: https://trrrj.ansperformance.eu/reference
+  article: https://trrrj.ansperformance.eu/articles
+
